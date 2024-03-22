@@ -7,7 +7,7 @@ metadata:
     - frontend
     - python
   annotations:
-    github.com/project-slug: peterj/bookstageinfo
+    github.com/project-slug: bcollard/bookstageinfo
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: productpage
     backstage.io/kubernetes-label-selector: 'app=productpage'

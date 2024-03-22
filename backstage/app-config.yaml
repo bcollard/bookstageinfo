@@ -92,10 +92,10 @@ catalog:
   locations:
     - type: url
       # TODO: Change to your fork
-      target: https://github.com/peterj/bookstageinfo/blob/main/catalog-info.yaml
+      target: https://github.com/bcollard/bookstageinfo/blob/main/catalog-info.yaml
 
     - type: url
       # TODO: Change to your fork
-      target: https://github.com/peterj/bookstageinfo/blob/main/org/org.yaml
+      target: https://github.com/bcollard/bookstageinfo/blob/main/org/org.yaml
       rules:
         - allow: [User, Group, System]
